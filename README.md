@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @mercurialism
-- 👀 I’m interested in Minecraft Datapack Making
-- 🌱 I’m currently learning JSON
-- 💞️ I’m looking to collaborate on nothing, leave me alone <3
-- 📫 How to reach me ... don't <3
+she /they
+I have sleep problems
 
 <!---
 mercurialism/mercurialism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
