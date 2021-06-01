@@ -1,5 +1,4 @@
-she /they |
-I have sleep problems
+Oh dear how did we get here?
 
 <!---
 mercurialism/mercurialism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
